@@ -50,5 +50,6 @@ console.log('set arr 0 index value is : ',setArr);
 //  console.log(str);
 
 const pushArr= arr.push('!');       
+// console.log(arr);
 console.log(arr);
 
